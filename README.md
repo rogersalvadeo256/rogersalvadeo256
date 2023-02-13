@@ -21,7 +21,7 @@
 <a href="mailto:rogeriosalvadeo@gmail.com">
  <img align="left" alt="Gmail" src="https://img.shields.io/badge/rogeriosalvadeo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="linkedin.com/in/rogeriosalvadeo/">
+<a href="https://linkedin.com/in/rogeriosalvadeo/">
  <img align="left" alt="Gmail" src="https://img.shields.io/badge/in/rogeriosalvadeo/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
