@@ -1,7 +1,7 @@
 
 
 # Hello there 👋  ~~(general kenobi)~~
-> To live is to be connected to people, but life eventually ends
+> Ao revisar a lista dos meus amigos e conhecidos, a maioria deles emerge manchada com estigmas de mania de um tipo ou de outro. Começo a me sentir consideravelmente tranquilizado. A verdade pode ser simplesmente que a sociedade humana não passa de uma reunião de lunáticos.
 
 ## About Me
 	
