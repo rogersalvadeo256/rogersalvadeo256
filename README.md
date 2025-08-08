@@ -5,10 +5,8 @@
 
 ## About Me
 	
- 🕧23 Years Old
+ 🕧25 Years Old
  🌎 Brazilian
- 🏳️‍🌈 Aro/Ace
-  ☿️ any/all
  👨‍💻FullStack Developer
 
  
