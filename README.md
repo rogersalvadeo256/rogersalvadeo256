@@ -5,8 +5,8 @@
 
 ## About Me
 	
- 🕧25 Years Old
- 🌎 Brazilian
+ 🕧26 Years Old
+ 🌎Brazilian
  👨‍💻FullStack Developer
 
  
